@@ -31,6 +31,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+print("name :clarissa k")
+print("reg no : 212224230047")
 # Load the Iris dataset
 iris = load_iris()
 # Create a Pandas DataFrame
@@ -63,8 +65,7 @@ print(cm)
 ## Output:
 
 
-<img width="811" height="404" alt="426346230-aa040428-022b-4c78-a2ba-f7c521f7961d" src="https://github.com/user-attachments/assets/be8ba44f-fa9a-4a11-9a65-3ea094f953fd" />
-
+<img width="991" height="463" alt="Screenshot 2025-10-09 091313" src="https://github.com/user-attachments/assets/07ffc563-c9cf-4800-8b6d-6e978901feca" />
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
